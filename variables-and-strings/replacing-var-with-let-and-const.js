@@ -1,11 +1,11 @@
-// LESSON: Global objects as well as replacing var with let and const
+// LESSON 1: Global objects as well as replacing var with let and const
 
 
 
 // GLOBAL OBJECTS:
-// variables declared like so:
+// Variables declared like so:
 message = "hello world";
-// are added to the Global object, Global object is something that can be accessed anywhere
+// Are added to the Global object, Global object is something that can be accessed anywhere
 // in the application.
 // However, is dangerous b/c it can run into problems w/ declaring variables such as:
 alert = "error message";

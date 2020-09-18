@@ -1,4 +1,4 @@
-// LESSON: Replacing var with let and const
+// LESSON: Global objects as well as replacing var with let and const
 
 
 

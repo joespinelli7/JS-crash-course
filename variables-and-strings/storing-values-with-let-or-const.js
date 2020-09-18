@@ -24,4 +24,5 @@ return salePrice;
 // Imagine this program but using let or var. Would be tougher to debug b/c those variables could be reassigned.
 // No need to worry when using const b/c you know exactly what will be returned regardless of what code comes after.
 // const works best w/ basic data types called primitives (numbers, strings, booleans).
-// HOWEVER, there are vulnerabilites when dealing with non-primitive data types such as objects.
+// HOWEVER, there are vulnerabilites when dealing with non-primitive data types such as objects so be careful
+// b/c let will have to be used in those situations.

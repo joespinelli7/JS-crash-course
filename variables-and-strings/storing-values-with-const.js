@@ -13,7 +13,7 @@ greet = "yo"; // results in TypeError: Assignment to constant variable.
 // const is good default choice b/c it can't be reassigned. Let's you and other dev's know that
 // the variable shouldn't be changed and know that it is going to stay the same w/o worry.
 
-// Program example:
+// Ex:
 const originalPrice = 50;
 const percentOff = 20;
 const salePrice = originalPrice * (percentOff / 100);

@@ -34,9 +34,9 @@ console.log(message);
 // console.log() receives the value "hello" b/c it has been assigned at that point.
 // How the JS engine reads the above lines of code (29-31):
 var message; // variable declaration is hoisted
-console.log(message); // "undefined" b/c message doesn't have a value assigned yet
+console.log(message); // => outputs "undefined" b/c message doesn't have a value assigned yet
 message = "hello";
-console.log(message); // "hello"
+console.log(message); // => outputs "hello"
 
 // Use let and const to avoid hoisting. They're declared and assigned on the same line of code.
 // Therefore will throw helpful errors ReferenceError's that wouldn't show up if using var.

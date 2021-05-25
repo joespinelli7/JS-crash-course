@@ -7,3 +7,5 @@ Lesson 1 - Global objects as well as replacing var with let and const - https://
 Lesson 2 - Storing values with const - https://github.com/joespinelli7/JS-crash-course/blob/main/variables-and-strings/storing-values-with-const.js
 
 Lesson 3 - Isolate values with block scoped variables - https://github.com/joespinelli7/JS-crash-course/blob/main/variables-and-strings/isolate-values-with-block-scoped-variables.js
+
+Lesson 4 - Better strings with template literals - https://github.com/joespinelli7/JS-crash-course/blob/main/variables-and-strings/better-strings-w-template-literals.js
